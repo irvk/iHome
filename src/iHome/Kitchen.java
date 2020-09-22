@@ -2,6 +2,10 @@ package iHome;
 
 public class Kitchen {
 
+	
+	/* your kitchen is delightful.  add a new counter top.  call bill he's good */:
+
+
 	private Fridge fridge;
 	private String diningTable;
 	private String oven;
